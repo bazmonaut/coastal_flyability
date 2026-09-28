@@ -1,4 +1,29 @@
 {
- "flyable": {},
- "updated": "2026-09-27T07:19:34"
+ "flyable": {
+  "bossington-hill-6132|2026-10-01|Afternoon": {
+   "status": "yes",
+   "wind": "19 kph W"
+  },
+  "bossington-hill-6132|2026-10-01|Midday": {
+   "status": "marginal",
+   "wind": "22 kph WNW"
+  },
+  "perranporth-15499|2026-10-01|Midday": {
+   "status": "marginal",
+   "wind": "22 kph WSW"
+  },
+  "perranporth-15499|2026-10-01|Morning": {
+   "status": "marginal",
+   "wind": "19 kph WSW"
+  },
+  "sandy-mouth-bude-15411|2026-10-01|Morning": {
+   "status": "yes",
+   "wind": "20 kph W"
+  },
+  "woolacombe-6819|2026-10-01|Midday": {
+   "status": "marginal",
+   "wind": "24 kph WSW"
+  }
+ },
+ "updated": "2026-09-28T11:51:51"
 }
