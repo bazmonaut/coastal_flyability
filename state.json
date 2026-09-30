@@ -1,29 +1,45 @@
 {
  "flyable": {
-  "bossington-hill-6132|2026-10-01|Midday": {
+  "bossington-hill-6132|2026-10-01|Afternoon": {
    "status": "yes",
    "wind": "15 kph W"
   },
-  "cornborough-14661|2026-10-03|Afternoon": {
+  "bossington-hill-6132|2026-10-01|Midday": {
+   "status": "yes",
+   "wind": "19 kph W"
+  },
+  "bossington-hill-6132|2026-10-03|Afternoon": {
    "status": "marginal",
+   "wind": "9 kph WNW"
+  },
+  "cornborough-14661|2026-10-03|Afternoon": {
+   "status": "yes",
    "wind": "13 kph NW"
   },
-  "countisbury-15519|2026-10-03|Afternoon": {
-   "status": "marginal",
-   "wind": "7 kph N"
+  "cornborough-14661|2026-10-04|Afternoon": {
+   "status": "yes",
+   "wind": "15 kph NNW"
   },
-  "sandy-mouth-bude-15411|2026-10-03|Afternoon": {
+  "perranporth-15499|2026-10-01|Morning": {
    "status": "marginal",
-   "wind": "7 kph WNW"
+   "wind": "20 kph W"
   },
-  "trentishoe-fields-15530|2026-10-03|Afternoon": {
+  "putsborough-15505|2026-10-03|Afternoon": {
    "status": "marginal",
-   "wind": "7 kph N"
+   "wind": "11 kph NNW"
   },
-  "woolacombe-6819|2026-10-03|Afternoon": {
-   "status": "marginal",
-   "wind": "9 kph NNW"
+  "putsborough-15505|2026-10-04|Afternoon": {
+   "status": "yes",
+   "wind": "13 kph NNE"
+  },
+  "sandy-mouth-bude-15411|2026-10-01|Morning": {
+   "status": "yes",
+   "wind": "20 kph WSW"
+  },
+  "woolacombe-6819|2026-10-01|Morning": {
+   "status": "yes",
+   "wind": "17 kph WSW"
   }
  },
- "updated": "2026-09-29T11:28:23"
+ "updated": "2026-09-30T11:16:05"
 }
