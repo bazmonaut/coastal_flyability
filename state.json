@@ -1,45 +1,61 @@
 {
  "flyable": {
-  "bossington-hill-6132|2026-10-01|Afternoon": {
-   "status": "yes",
-   "wind": "15 kph W"
-  },
   "bossington-hill-6132|2026-10-01|Midday": {
-   "status": "yes",
-   "wind": "19 kph W"
-  },
-  "bossington-hill-6132|2026-10-03|Afternoon": {
    "status": "marginal",
-   "wind": "9 kph WNW"
+   "wind": "24 kph WNW"
   },
-  "cornborough-14661|2026-10-03|Afternoon": {
-   "status": "yes",
-   "wind": "13 kph NW"
+  "bossington-hill-6132|2026-10-01|Morning": {
+   "status": "marginal",
+   "wind": "24 kph WSW"
   },
-  "cornborough-14661|2026-10-04|Afternoon": {
+  "bossington-hill-6132|2026-10-05|Midday": {
    "status": "yes",
-   "wind": "15 kph NNW"
+   "wind": "13 kph WNW"
   },
   "perranporth-15499|2026-10-01|Morning": {
    "status": "marginal",
-   "wind": "20 kph W"
+   "wind": "22 kph WSW"
   },
-  "putsborough-15505|2026-10-03|Afternoon": {
+  "perranporth-15499|2026-10-03|Afternoon": {
    "status": "marginal",
-   "wind": "11 kph NNW"
+   "wind": "13 kph W"
   },
-  "putsborough-15505|2026-10-04|Afternoon": {
-   "status": "yes",
-   "wind": "13 kph NNE"
+  "perranporth-15499|2026-10-04|Afternoon": {
+   "status": "marginal",
+   "wind": "17 kph W"
+  },
+  "perranporth-15499|2026-10-04|Midday": {
+   "status": "marginal",
+   "wind": "13 kph WSW"
+  },
+  "perranporth-15499|2026-10-05|Afternoon": {
+   "status": "marginal",
+   "wind": "15 kph W"
+  },
+  "perranporth-15499|2026-10-05|Midday": {
+   "status": "marginal",
+   "wind": "15 kph WSW"
   },
   "sandy-mouth-bude-15411|2026-10-01|Morning": {
-   "status": "yes",
-   "wind": "20 kph WSW"
+   "status": "marginal",
+   "wind": "24 kph WSW"
+  },
+  "sandy-mouth-bude-15411|2026-10-03|Afternoon": {
+   "status": "marginal",
+   "wind": "9 kph WSW"
+  },
+  "woolacombe-6819|2026-10-01|Midday": {
+   "status": "marginal",
+   "wind": "24 kph WSW"
   },
   "woolacombe-6819|2026-10-01|Morning": {
+   "status": "marginal",
+   "wind": "22 kph WSW"
+  },
+  "woolacombe-6819|2026-10-03|Afternoon": {
    "status": "yes",
-   "wind": "17 kph WSW"
+   "wind": "13 kph WSW"
   }
  },
- "updated": "2026-09-30T11:16:05"
+ "updated": "2026-10-01T11:43:52"
 }
