@@ -4,9 +4,21 @@
    "status": "yes",
    "wind": "13 kph WNW"
   },
+  "bossington-hill-6132|2026-10-03|Midday": {
+   "status": "marginal",
+   "wind": "7 kph WNW"
+  },
   "bossington-hill-6132|2026-10-03|Morning": {
    "status": "yes",
-   "wind": "19 kph WNW"
+   "wind": "20 kph WNW"
+  },
+  "bossington-hill-6132|2026-10-06|Afternoon": {
+   "status": "yes",
+   "wind": "20 kph W"
+  },
+  "bossington-hill-6132|2026-10-06|Midday": {
+   "status": "marginal",
+   "wind": "24 kph WNW"
   },
   "bossington-hill-6132|2026-10-06|Morning": {
    "status": "yes",
@@ -14,84 +26,116 @@
   },
   "cornborough-14661|2026-10-03|Afternoon": {
    "status": "yes",
-   "wind": "15 kph NNW"
+   "wind": "13 kph NNW"
   },
-  "cornborough-14661|2026-10-03|Midday": {
+  "cornborough-14661|2026-10-03|Morning": {
    "status": "marginal",
-   "wind": "11 kph NNW"
+   "wind": "11 kph N"
+  },
+  "cornborough-14661|2026-10-04|Afternoon": {
+   "status": "marginal",
+   "wind": "11 kph NW"
+  },
+  "cornborough-14661|2026-10-06|Afternoon": {
+   "status": "marginal",
+   "wind": "19 kph NNW"
   },
   "countisbury-15519|2026-10-03|Afternoon": {
-   "status": "marginal",
-   "wind": "9 kph WNW"
+   "status": "yes",
+   "wind": "11 kph NW"
   },
-  "countisbury-15519|2026-10-03|Morning": {
-   "status": "marginal",
-   "wind": "9 kph NW"
-  },
-  "countisbury-15519|2026-10-04|Afternoon": {
-   "status": "marginal",
-   "wind": "13 kph WNW"
-  },
-  "countisbury-15519|2026-10-04|Midday": {
+  "countisbury-15519|2026-10-03|Midday": {
    "status": "marginal",
    "wind": "7 kph NNW"
   },
+  "countisbury-15519|2026-10-03|Morning": {
+   "status": "marginal",
+   "wind": "13 kph W"
+  },
+  "countisbury-15519|2026-10-04|Afternoon": {
+   "status": "marginal",
+   "wind": "11 kph WNW"
+  },
+  "countisbury-15519|2026-10-04|Midday": {
+   "status": "marginal",
+   "wind": "9 kph NW"
+  },
+  "countisbury-15519|2026-10-05|Afternoon": {
+   "status": "marginal",
+   "wind": "19 kph W"
+  },
   "countisbury-15519|2026-10-06|Afternoon": {
    "status": "marginal",
-   "wind": "19 kph WNW"
+   "wind": "9 kph W"
+  },
+  "countisbury-15519|2026-10-07|Midday": {
+   "status": "marginal",
+   "wind": "22 kph N"
+  },
+  "hale-towansblack-cliff-15419|2026-10-04|Afternoon": {
+   "status": "marginal",
+   "wind": "9 kph NW"
   },
   "hale-towansblack-cliff-15419|2026-10-04|Midday": {
    "status": "marginal",
-   "wind": "9 kph WNW"
-  },
-  "perranporth-15499|2026-10-04|Afternoon": {
-   "status": "marginal",
-   "wind": "11 kph W"
-  },
-  "perranporth-15499|2026-10-04|Midday": {
-   "status": "marginal",
-   "wind": "11 kph W"
-  },
-  "perranporth-15499|2026-10-05|Afternoon": {
-   "status": "yes",
-   "wind": "13 kph W"
-  },
-  "perranporth-15499|2026-10-05|Midday": {
-   "status": "marginal",
-   "wind": "15 kph W"
+   "wind": "7 kph N"
   },
   "putsborough-15505|2026-10-03|Afternoon": {
    "status": "yes",
-   "wind": "13 kph N"
+   "wind": "13 kph NNW"
   },
-  "putsborough-15505|2026-10-03|Midday": {
+  "putsborough-15505|2026-10-03|Morning": {
    "status": "yes",
    "wind": "13 kph N"
   },
+  "putsborough-15505|2026-10-06|Afternoon": {
+   "status": "marginal",
+   "wind": "24 kph N"
+  },
+  "sandy-mouth-bude-15411|2026-10-03|Morning": {
+   "status": "marginal",
+   "wind": "7 kph W"
+  },
+  "sandy-mouth-bude-15411|2026-10-04|Afternoon": {
+   "status": "marginal",
+   "wind": "7 kph WNW"
+  },
   "sandy-mouth-bude-15411|2026-10-04|Midday": {
    "status": "marginal",
-   "wind": "9 kph WSW"
+   "wind": "7 kph W"
   },
-  "sandy-mouth-bude-15411|2026-10-06|Afternoon": {
+  "sandy-mouth-bude-15411|2026-10-05|Afternoon": {
    "status": "marginal",
-   "wind": "7 kph WSW"
+   "wind": "9 kph WSW"
   },
   "trentishoe-fields-15530|2026-10-03|Afternoon": {
    "status": "marginal",
    "wind": "9 kph NNW"
   },
+  "trentishoe-fields-15530|2026-10-04|Midday": {
+   "status": "marginal",
+   "wind": "7 kph NW"
+  },
+  "trentishoe-fields-15530|2026-10-06|Afternoon": {
+   "status": "marginal",
+   "wind": "17 kph NNW"
+  },
+  "trentishoe-fields-15530|2026-10-07|Midday": {
+   "status": "marginal",
+   "wind": "24 kph N"
+  },
   "woolacombe-6819|2026-10-04|Afternoon": {
-   "status": "yes",
-   "wind": "15 kph WSW"
+   "status": "marginal",
+   "wind": "9 kph WNW"
   },
   "woolacombe-6819|2026-10-04|Midday": {
    "status": "marginal",
-   "wind": "9 kph WSW"
+   "wind": "7 kph W"
   },
-  "woolacombe-6819|2026-10-06|Afternoon": {
+  "woolacombe-6819|2026-10-05|Afternoon": {
    "status": "yes",
    "wind": "15 kph WSW"
   }
  },
- "updated": "2026-10-02T11:13:26"
+ "updated": "2026-10-03T10:30:46"
 }
