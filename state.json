@@ -1,37 +1,4 @@
 {
- "flyable": {
-  "countisbury-15519|2026-10-08|Midday": {
-   "status": "marginal",
-   "wind": "24 kph NW"
-  },
-  "hale-towansblack-cliff-15419|2026-10-08|Midday": {
-   "status": "marginal",
-   "wind": "22 kph NW"
-  },
-  "perranporth-15499|2026-10-08|Afternoon": {
-   "status": "marginal",
-   "wind": "19 kph W"
-  },
-  "perranporth-15499|2026-10-08|Midday": {
-   "status": "marginal",
-   "wind": "22 kph NW"
-  },
-  "sandy-mouth-bude-15411|2026-10-08|Afternoon": {
-   "status": "marginal",
-   "wind": "22 kph WSW"
-  },
-  "trentishoe-fields-15530|2026-10-08|Midday": {
-   "status": "marginal",
-   "wind": "24 kph NW"
-  },
-  "woolacombe-6819|2026-10-08|Afternoon": {
-   "status": "marginal",
-   "wind": "22 kph W"
-  },
-  "woolacombe-6819|2026-10-08|Midday": {
-   "status": "marginal",
-   "wind": "24 kph NW"
-  }
- },
- "updated": "2026-10-08T12:09:27"
+ "flyable": {},
+ "updated": "2026-10-09T12:00:21"
 }
